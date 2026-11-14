@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://transportasi.netlify.app/sitemap.xml
+Sitemap: https://sewamobilbelitung.dpdns.org/sitemap.xml
